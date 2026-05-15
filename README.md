@@ -15,7 +15,7 @@ May 15, 2026
 .toc-list a:hover { text-decoration: underline; }
 </style>
 
-<h1 style="font-size: 1.6em; letter-spacing: 0.3px; border-bottom: 2px solid rgb(255, 80, 0); padding-bottom: 0.4em; margin-top: 1.5em; margin-bottom: 0.8em; color: rgb(255, 80, 0); font-weight: 700;">TABLE OF CONTENTS</h1>
+<h1 style="font-size: 1.6em; letter-spacing: 0.3px; border-bottom: 2px solid rgb(255, 80, 0); padding-bottom: 0.4em; margin-top: 1.5em; margin-bottom: 0.8em; color: #000; font-weight: 700;">TABLE OF CONTENTS</h1>
 
 <p class="toc-section"><a href="#s1">Section 1 — The Brazilian Football Broadcasting Rights Market</a></p>
 <ul class="toc-list">
