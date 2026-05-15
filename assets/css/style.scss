@@ -11,6 +11,15 @@ body, .main-content, .main-content * { font-family: Arial, Helvetica, sans-serif
 .main-content { color: #000; max-width: 820px; font-size: 14.5px; line-height: 1.55; }
 .main-content p, .main-content li, .main-content td, .main-content blockquote { color: #000; }
 
+/* Pillar breaks (single hr) — subtle */
+.main-content hr { height: 1px; background: rgba(0,0,0,0.08); border: 0; margin: 1.5em 0; }
+
+/* Section breaks (double hr pattern) — much more pronounced */
+.main-content hr + p + hr { height: 4px; background: rgba(255, 80, 0, 0.7); border: 0; margin: 3.5em 0 2em 0; border-radius: 2px; }
+
+/* H1 after double hr = SECTION title — bigger and bolder */
+.main-content hr + p + hr + p + h1 { font-size: 1.6em; letter-spacing: 0.3px; border-bottom: 2px solid rgb(255, 80, 0); padding-bottom: 0.4em; margin-top: 1.5em; margin-bottom: 0.8em; }
+
 .main-content h1 { font-size: 1.3em; color: rgb(255, 80, 0); font-weight: 700; border-bottom: 1px solid rgba(255, 80, 0, 0.25); padding-bottom: 0.3em; margin-top: 1.8em; }
 .main-content h2 { font-size: 1.15em; color: rgb(255, 80, 0); font-weight: 700; margin-top: 1.5em; }
 .main-content h3 { font-size: 1em; color: rgb(255, 80, 0); font-weight: 700; margin-top: 1.2em; }
