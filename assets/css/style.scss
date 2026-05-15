@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header { display: none; }
+.site-footer { display: none; }
+
+.main-content { color: #000; max-width: 820px; }
+.main-content p, .main-content li, .main-content td, .main-content blockquote { color: #000; }
+
+.main-content h1 { font-size: 1.5em; border-bottom: 1px solid rgba(255, 80, 0, 0.25); padding-bottom: 0.3em; margin-top: 1.8em; }
+.main-content h2 { font-size: 1.3em; margin-top: 1.5em; }
+.main-content h3 { font-size: 1.1em; color: rgb(255, 80, 0); margin-top: 1.2em; }
+
+.main-content a { color: rgb(255, 80, 0); }
+.main-content a:hover { color: rgb(200, 60, 0); }
+
+.main-content strong { color: #000; font-weight: 700; }
