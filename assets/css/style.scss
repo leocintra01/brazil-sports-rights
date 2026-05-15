@@ -15,7 +15,7 @@ body, .main-content, .main-content * { font-family: Arial, Helvetica, sans-serif
 .main-content h2 { font-size: 1.15em; color: rgb(255, 80, 0); font-weight: 700; margin-top: 1.5em; }
 .main-content h3 { font-size: 1em; color: rgb(255, 80, 0); font-weight: 700; margin-top: 1.2em; }
 
-.main-content a { color: rgb(255, 80, 0); }
-.main-content a:hover { color: rgb(200, 60, 0); }
+.main-content a { color: #0969da; }
+.main-content a:hover { color: #0550ae; text-decoration: underline; }
 
 .main-content strong { color: #000; font-weight: 700; }
