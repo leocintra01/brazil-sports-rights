@@ -1,4 +1,4 @@
-# Brazilian Football Broadcasting Rights — Research Notes
+# Brazilian Football Broadcasting Rights — IBBA Notes
 Sector Initiation · Working Draft · May 2026
 
 ---
