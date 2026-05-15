@@ -1,55 +1,52 @@
 # Brazilian Football Broadcasting Rights — IBBA Notes
-Sector Initiation · Working Draft · May 2026
+May 15, 2026
 
 ---
 
 &nbsp;
 
 <style>
-.toc-title strong a { color: rgb(255, 80, 0) !important; font-size: 1.05em; }
-.toc-title strong a:hover { text-decoration: underline; }
-.toc-bullets a { color: #000 !important; }
-.toc-bullets a:hover { text-decoration: underline; }
+.toc-section { margin: 1.2em 0 0.3em 0; font-weight: 700; font-size: 1.05em; }
+.toc-section a { color: rgb(255, 80, 0); text-decoration: none; }
+.toc-section a:hover { text-decoration: underline; }
+.toc-list { margin: 0 0 0.4em 1.5em; padding: 0; list-style: disc; }
+.toc-list li { margin: 0.15em 0; }
+.toc-list a { color: #000; text-decoration: none; }
+.toc-list a:hover { text-decoration: underline; }
 </style>
 
-## Table of Contents
+<h1 style="font-size: 1.6em; letter-spacing: 0.3px; border-bottom: 2px solid rgb(255, 80, 0); padding-bottom: 0.4em; margin-top: 1.5em; margin-bottom: 0.8em; color: rgb(255, 80, 0); font-weight: 700;">TABLE OF CONTENTS</h1>
 
-<div class="toc-title" markdown="1">**[Section 1 — The Brazilian Football Broadcasting Rights Market](#s1)**</div>
-<div class="toc-bullets" markdown="1">
+<p class="toc-section"><a href="#s1">Section 1 — The Brazilian Football Broadcasting Rights Market</a></p>
+<ul class="toc-list">
+<li><a href="#s1p1">Pillar #1 — From Unanimity to Fragmentation (1987-2020)</a></li>
+<li><a href="#s1p2">Pillar #2 — Regulatory Triggers (2020-2021)</a></li>
+<li><a href="#s1p3">Pillar #3 — Libra and LFU: The Two Blocs</a></li>
+<li><a href="#s1p4">Pillar #4 — Where It's Heading: Toward a Single League</a></li>
+<li><a href="#s1p5">Pillar #5 — Contract Architecture (2025-2029)</a></li>
+<li><a href="#s1p6">Pillar #6 — Revenue Distribution</a></li>
+</ul>
 
-- [Pillar #1 — From Unanimity to Fragmentation (1987-2020)](#s1p1)
-- [Pillar #2 — Regulatory Triggers (2020-2021)](#s1p2)
-- [Pillar #3 — Libra and LFU: The Two Blocs](#s1p3)
-- [Pillar #4 — Where It's Heading: Toward a Single League](#s1p4)
-- [Pillar #5 — Contract Architecture (2025-2029)](#s1p5)
-- [Pillar #6 — Revenue Distribution](#s1p6)
+<p class="toc-section"><a href="#s2">Section 2 — LiveMode: A Case Study in Sports Rights Distribution</a></p>
+<ul class="toc-list">
+<li><a href="#s2p1">Pillar #1 — Origin: From Esporte Interativo to LiveMode (2003-2017)</a></li>
+<li><a href="#s2p2">Pillar #2 — Business Model: Rights Agent, Producer, and Platform Operator</a></li>
+<li><a href="#s2p3">Pillar #3 — CazéTV: From Partnership to 100% Acquisition</a></li>
+<li><a href="#s2p4">Pillar #4 — Institutional Capital and Shareholders</a></li>
+<li><a href="#s2p5">Pillar #5 — Rights Portfolio: What LiveMode Actually Controls</a></li>
+<li><a href="#s2p6">Pillar #6 — International Ambition</a></li>
+</ul>
 
-</div>
+<p class="toc-section"><a href="#s3">Section 3 — Sizing the Brazilian Sports Rights Opportunity</a></p>
+<ul class="toc-list">
+<li><a href="#s3p1">Pillar #1 — The 2025 Baseline</a></li>
+<li><a href="#s3p2">Pillar #2 — The Audience Trajectory: Cord-Cutting and Digital Migration</a></li>
+<li><a href="#s3p3">Pillar #3 — Brazil vs Global Comparables</a></li>
+<li><a href="#s3p4">Pillar #4 — Growth Vectors and Risks to 2029</a></li>
+<li><a href="#s3p5">Pillar #5 — Forward Outlook: Three Scenarios for the 2029-2034 Cycle</a></li>
+</ul>
 
-<div class="toc-title" markdown="1">**[Section 2 — LiveMode: A Case Study in Sports Rights Distribution](#s2)**</div>
-<div class="toc-bullets" markdown="1">
-
-- [Pillar #1 — Origin: From Esporte Interativo to LiveMode (2003-2017)](#s2p1)
-- [Pillar #2 — Business Model: Rights Agent, Producer, and Platform Operator](#s2p2)
-- [Pillar #3 — CazéTV: From Partnership to 100% Acquisition](#s2p3)
-- [Pillar #4 — Institutional Capital and Shareholders](#s2p4)
-- [Pillar #5 — Rights Portfolio: What LiveMode Actually Controls](#s2p5)
-- [Pillar #6 — International Ambition](#s2p6)
-
-</div>
-
-<div class="toc-title" markdown="1">**[Section 3 — Sizing the Brazilian Sports Rights Opportunity](#s3)**</div>
-<div class="toc-bullets" markdown="1">
-
-- [Pillar #1 — The 2025 Baseline](#s3p1)
-- [Pillar #2 — The Audience Trajectory: Cord-Cutting and Digital Migration](#s3p2)
-- [Pillar #3 — Brazil vs Global Comparables](#s3p3)
-- [Pillar #4 — Growth Vectors and Risks to 2029](#s3p4)
-- [Pillar #5 — Forward Outlook: Three Scenarios for the 2029-2034 Cycle](#s3p5)
-
-</div>
-
-<div class="toc-title" markdown="1">**[Sources — Compiled by Section and Pillar](#sources)**</div>
+<p class="toc-section"><a href="#sources">Sources — Compiled by Section and Pillar</a></p>
 
 ---
 
