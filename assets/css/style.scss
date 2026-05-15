@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+body, .main-content, .main-content * { font-family: Arial, Helvetica, sans-serif !important; }
+
 .page-header { display: none; }
 .site-footer { display: none; }
 
