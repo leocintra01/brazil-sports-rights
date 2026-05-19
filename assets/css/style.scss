@@ -31,3 +31,41 @@ body, .main-content, .main-content * { font-family: Arial, Helvetica, sans-serif
 .main-content a:hover { color: #0550ae; text-decoration: underline; }
 
 .main-content strong { color: #000; font-weight: 700; }
+
+
+/* === TABLE OF CONTENTS === */
+.main-content h2 {
+  font-size: 1.6em;
+  letter-spacing: 0.3px;
+  border-bottom: 2px solid rgb(255, 80, 0);
+  padding-bottom: 0.4em;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  color: #000;
+  font-weight: 700;
+}
+
+/* TOC section titles (orange bold links) */
+.main-content p:has(> strong > a) {
+  margin: 1.2em 0 0.3em 0;
+  font-size: 1.05em;
+}
+.main-content p:has(> strong > a) > strong > a {
+  color: rgb(255, 80, 0);
+  text-decoration: none;
+}
+.main-content p:has(> strong > a) > strong > a:hover {
+  text-decoration: underline;
+}
+
+/* TOC pillar bullets (black links) */
+.main-content p:has(> strong > a) + ul {
+  margin: 0 0 0.4em 1.5em;
+}
+.main-content p:has(> strong > a) + ul li a {
+  color: #000;
+  text-decoration: none;
+}
+.main-content p:has(> strong > a) + ul li a:hover {
+  text-decoration: underline;
+}
